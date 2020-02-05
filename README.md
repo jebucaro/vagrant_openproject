@@ -24,3 +24,13 @@ Ejecuta el instalador de OpenProject
 ```bash
 sudo openproject configure
 ```
+
+## Ingresa a OpenProject
+Obten la dirección IP asignada, esta te servirá para ingresar a OpenProject desde tu navegador, o por medio del nombre de dominio que configuraste anteriormente.
+```bash
+ifconfig
+```
+Inicia sesión con las siguientes credenciales, posteriormente te solicitará cambiar la contraseña.
+Usuario | Contraseña
+--------|-----------
+admin   | admin
