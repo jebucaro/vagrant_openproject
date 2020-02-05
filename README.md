@@ -36,4 +36,4 @@ Usuario | Contraseña
 admin   | admin
 
 ### Resultado
-![Alt text](/screenshot_openproject.png?raw=true "Optional Title")
+![Screenshot - OpenProject](/screenshot_openproject.png?raw=true "OpenProject")
