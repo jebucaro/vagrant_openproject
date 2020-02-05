@@ -31,6 +31,7 @@ Obten la dirección IP asignada, esta te servirá para ingresar a OpenProject de
 ifconfig
 ```
 Inicia sesión con las siguientes credenciales, posteriormente te solicitará cambiar la contraseña.
+   
 Usuario | Contraseña
 --------|-----------
 admin   | admin
