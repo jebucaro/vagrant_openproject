@@ -34,3 +34,6 @@ Inicia sesión con las siguientes credenciales, posteriormente te solicitará ca
 Usuario | Contraseña
 --------|-----------
 admin   | admin
+
+### Resultado
+![Alt text](/screenshot_openproject.png?raw=true "Optional Title")
